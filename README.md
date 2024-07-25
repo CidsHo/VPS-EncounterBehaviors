@@ -1,18 +1,18 @@
 # VirtualPublicSpaceResearch-EncounterBehaviors
 
-    A small project that explored the potential of virtual reality (VR) as a tool for studying public space design and understanding user behavior within pre-designed virtual public spaces. Typically for its preliminary and experimental nature, this research focuses on encounter and serendipitous interactions.
+A small project that explored the potential of virtual reality (VR) as a tool for studying public space design and understanding user behavior within pre-designed virtual public spaces. Typically for its preliminary and experimental nature, this research focuses on encounter and serendipitous interactions.
 
 ## Experiment Design
 
-    The experiment was designed to study social interactions in virtual public spaces, particularly focusing on "encounter" behavior akin to typical encounters in public parks. The Virtual Garden Party environment, modeled after a public park setting, served as the experimental space.
+The experiment was designed to study social interactions in virtual public spaces, particularly focusing on "encounter" behavior akin to typical encounters in public parks. The Virtual Garden Party environment, modeled after a public park setting, served as the experimental space.
 
 ### Space Preset
 
-    The Virtual Garden Party was constructed in a realistic style, drawing inspiration from real-life public park settings, which are typical public space types. The environment featured a major encounter zone (fountain roundabout), three guiding spaces (park pathways), several interactable objects (fountain, park benches), and soft-restricted zones (grass lawns). While the space offered a degree of openness, air walls were positioned at the boundaries to define the activity area.
+The Virtual Garden Party was constructed in a realistic style, drawing inspiration from real-life public park settings, which are typical public space types. The environment featured a major encounter zone (fountain roundabout), three guiding spaces (park pathways), several interactable objects (fountain, park benches), and soft-restricted zones (grass lawns). While the space offered a degree of openness, air walls were positioned at the boundaries to define the activity area.
 
 <p align="center">
     <br>
-    <img src="Pics/LineGraph.png" width="100%">
+    <img src="Pics/LineGraph.png" width="50%">
     <br>
 </p>
 
@@ -22,13 +22,13 @@
 
 <p align="center">
     <br>
-    <img src="Pics/RenderGraph.png" width="100%">
+    <img src="Pics/RenderGraph.png" width="50%">
     <br>
 </p>
 
 <p align="center">
     <br>
-    <img src="Pics/RenderGraph2.png" width="100%">
+    <img src="Pics/RenderGraph2.png" width="50%">
     <br>
 </p>
 
@@ -52,4 +52,4 @@ Following the experiment, participants underwent interviews to gather qualitativ
 
 Group interviews were conducted to collectively discuss these interactions. As part of the post-experiment assessment, participants completed the Social Interaction Anxiety Scale (SIAS) , providing additional insights into their levels of discomfort or anxiety related to social interactions within the virtual environment.
 
-**Details, data and results will be published in HCII 2024 in late Aug. 2024.**
+***Details, data and results will be published in HCII 2024 in late Aug. 2024.***
