@@ -17,7 +17,7 @@ The Virtual Garden Party was constructed in a realistic style, drawing inspirati
 </p>
 
 <p align="center">
-    Figure 1: Wireframe diagram of the Virtual Garden Party's interactive space, with dashed lines delineating the ***"Major Encounter Zone,"*** green rectangles representing interactable objects in the environment, white indicating guiding spaces, and dark gray indicating soft-restricted zones.
+    Figure 1: Wireframe diagram of the Virtual Garden Party's interactive space, with dashed lines delineating the "Major Encounter Zone," green rectangles representing interactable objects in the environment, white indicating guiding spaces, and dark gray indicating soft-restricted zones.
 </p>
 
 <p align="center">
