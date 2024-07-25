@@ -1,4 +1,4 @@
-# VPS(VirtualPublicSpace) Research-EncounterBehaviors
+# VPS(Virtual Public Space) Research-EncounterBehaviors
 
 A small project that explored the potential of virtual reality (VR) as a tool for studying public space design and understanding user behavior within pre-designed virtual public spaces. Typically for its preliminary and experimental nature, this research focuses on encounter and serendipitous interactions.
 
